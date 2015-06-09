@@ -1,0 +1,19 @@
+h1 {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    color: green;
+}
+
+p {
+    font-family: fantasy;
+    color: purple;
+}
+
+table {
+    font-family: verdana, arial, helvetica, sans-serif;
+    color: orange;
+}
+
+td {
+    width: 10em;
+    height: 2em;
+}
