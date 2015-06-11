@@ -1,19 +1,40 @@
 h1 {
     font-family: Verdana, Arial, Helvetica, sans-serif;
-    color: green;
+    color: limegreen;
+    font-size: 3em;
+    font-weight: 300;
+
 }
 
 p {
     font-family: fantasy;
-    color: purple;
+    color: lightcoral;
+    text-decoration: none;
+    font-size: 2em;
 }
 
 table {
     font-family: verdana, arial, helvetica, sans-serif;
-    color: orange;
+    color: white;
+    font-;
+    float: left;
+    text-decoration: none;
 }
 
 td {
-    width: 10em;
-    height: 2em;
+    width: 11em;
+    height: 6em,0em,2em,0em;
+}
+
+.action {
+    width: 2em;
+    float: left;
+    position: absolute;
+}
+
+body {
+    background-image: url("http://img07.deviantart.net/4c87/i/2014/103/f/8/evening_sky_by_psconcepts-d7e967c.jpg");
+    background repeat: no-repeat;
+    background-size: cover;
+    /*background-color: darkcyan;*/
 }
